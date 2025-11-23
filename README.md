@@ -4,13 +4,10 @@
 
 ## About CodeCut
 
-[CodeCut](https://codecut.ai/blog?utm_source=github&utm_medium=codecut-blog&utm_campaign=readme) is a platform dedicated to helping data scientists and ML engineers bridge the gap between prototyping and production. Founded by **Khuyen Tran**, a top writer on Towards Data Science with 110,000+ LinkedIn followers, CodeCut delivers daily Python tips and in-depth technical articles.
+These notebooks are from **[CodeCut](https://codecut.ai/?utm_source=github&utm_medium=notebook&utm_campaign=codecut-blog)**. CodeCut features open-source Python data science tools explained in clear, digestible tutorials. Subscribe to get:
 
-### What We Offer
-
-- **Newsletter**: Bite-sized Python tips curated for data professionals - delivered 3 times per week, each skimmable in under 2 minutes
-- **Technical Blog**: Comprehensive tutorials on data science, MLOps, and AI tools
-- **Production-Ready Examples**: Code you can execute and adapt for real projects
+- Weekly articles with step-by-step guides
+- Newsletters 3x per week (2-minute digests)
 
 ## Repository Overview
 
@@ -91,11 +88,6 @@ Each article is self-contained and lists its required packages at the beginning.
 Found an issue or have a suggestion?
 - Open an issue at [codecut_articles repository](https://github.com/khuyentran1401/codecut_articles/issues)
 - All articles are also published on [CodeCut.ai](https://codecut.ai/blog?utm_source=github&utm_medium=codecut-blog&utm_campaign=readme)
-
-## Stay Connected
-
-- **Website**: [codecut.ai](https://codecut.ai?utm_source=github&utm_medium=codecut-blog&utm_campaign=readme)
-- **LinkedIn**: [Khuyen Tran](https://www.linkedin.com/in/khuyen-tran-1401/)
 
 ## License
 
