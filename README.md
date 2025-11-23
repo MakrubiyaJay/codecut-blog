@@ -19,47 +19,37 @@ This repository contains 45+ comprehensive technical articles covering data scie
 Here are some examples of what you'll find in this repository:
 
 **Data Engineering**
-- [PySpark SQL](pyspark_sql_complete_guide.qmd) - DataFrames, window functions, aggregations
-- [DuckDB](duckdb.qmd) - Fast analytical queries for data scientists
-- [DVC](dvc_data_version_control.qmd) - Data versioning and experiment tracking
-- [Delta Lake](from_pandas_to_production_delta_rs.qmd) - Production lakehouses with delta-rs
+- [PySpark SQL](pyspark_sql_complete_guide.ipynb) - DataFrames, window functions, aggregations
+- [DuckDB](duckdb.ipynb) - Fast analytical queries for data scientists
+- [DVC](dvc_data_version_control.ipynb) - Data versioning and experiment tracking
+- [Delta Lake](from_pandas_to_production_delta_rs.ipynb) - Production lakehouses with delta-rs
 
 **Machine Learning**
-- [Bayesian Optimization](bayesian_optimization.qmd) - Efficient hyperparameter tuning
-- [MLflow](essential-rag-evaluation-mlflow.qmd) - RAG evaluation and experiment tracking
-- [pytest for Data Scientists](pytest_for_data_scientists.qmd) - Testing ML pipelines
+- [Bayesian Optimization](bayesian_optimization.ipynb) - Efficient hyperparameter tuning
+- [MLflow](essential-rag-evaluation-mlflow.ipynb) - RAG evaluation and experiment tracking
+- [pytest for Data Scientists](pytest_for_data_scientists.ipynb) - Testing ML pipelines
 
 **LLM Applications**
-- [LangChain + Ollama](langchain_ollama.qmd) - Private AI workflows
-- [Pydantic AI](pydantic_ai.qmd) - Type-safe LLM applications
-- [RAG Pipelines](open_source_rag_pipeline_intelligent_qa_system.qmd) - Intelligent QA systems
-- [pgvector](pgvector_rag.qmd) - Vector search for embeddings
+- [LangChain + Ollama](langchain_ollama.ipynb) - Private AI workflows
+- [Pydantic AI](pydantic_ai.ipynb) - Type-safe LLM applications
+- [RAG Pipelines](open_source_rag_pipeline_intelligent_qa_system.ipynb) - Intelligent QA systems
+- [pgvector](pgvector_rag.ipynb) - Vector search for embeddings
 
 **Data Visualization**
-- [Python Visualization Libraries](top_6_python_visualization_libraries.qmd) - Matplotlib, Plotly, Seaborn comparison
-- [Manim](manim_mathematical_animations.qmd) - Mathematical animations like 3Blue1Brown
+- [Python Visualization Libraries](top_6_python_visualization_libraries.ipynb) - Matplotlib, Plotly, Seaborn comparison
+- [Manim](manim_mathematical_animations.ipynb) - Mathematical animations like 3Blue1Brown
 
 **Data Utilities**
-- [Faker](faker_generate_fake_data.qmd) - Generate realistic test data
-- [PRegEx](pregex_readable_regex.qmd) - Human-readable regex patterns
-- [Loguru](loguru_python_logging.qmd) - Simplified Python logging
-- [Hydra](hydra_config.qmd) - Configuration management
+- [Faker](faker_generate_fake_data.ipynb) - Generate realistic test data
+- [PRegEx](pregex_readable_regex.ipynb) - Human-readable regex patterns
+- [Loguru](loguru_python_logging.ipynb) - Simplified Python logging
+- [Hydra](hydra_config.ipynb) - Configuration management
 
-## Article Format
-
-All articles are written in **[Quarto Markdown (`.qmd`)](https://quarto.org/)** format, an open-source publishing system that:
-- Lets you write narrative explanations alongside working code
-- Automatically runs code and displays output as you render
-- Produces polished documents in multiple formats
-- Ensures every example is executable and reproducible
-
-## Running Articles Locally
 
 ### Prerequisites
 
 1. **Python 3.9+**
 2. **UV package manager** (recommended) or pip
-3. **Quarto** (for rendering)
 
 ### Setup Instructions
 
@@ -90,21 +80,6 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Install dependencies for a specific article
 pip install package1 package2 package3
-```
-
-### Running an Article
-
-**Option 1: VS Code with Quarto Extension**
-
-Open the `.qmd` file in **VS Code** with the [Quarto extension](https://marketplace.visualstudio.com/items?itemName=quarto.quarto) installed. Click "Run Cell" above each code block to execute individual chunks, or use "Run All" to execute the entire article.
-
-**Option 2: Jupyter Notebook**
-
-Convert the `.qmd` file to a Jupyter notebook and run it:
-
-```bash
-quarto convert article_name.qmd
-jupyter notebook article_name.ipynb
 ```
 
 ## Dependencies
