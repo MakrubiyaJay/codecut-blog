@@ -43,45 +43,21 @@ Here are some examples of what you'll find in this repository:
 - [Hydra](hydra_config.ipynb) - Configuration management
 
 
-### Prerequisites
+## Setup
 
-1. **Python 3.9+**
-2. **UV package manager** (recommended) or pip
+**Prerequisites:** Python 3.9+
 
-### Setup Instructions
-
-#### Option 1: Using UV (Recommended)
-
+**Quick Start:**
 ```bash
-# Install UV if you haven't already
-curl -LsSf https://astral.sh/uv/install.sh | sh
-
-# Clone the repository
+# Clone repository
 git clone https://github.com/khuyentran1401/codecut-blog.git
 cd codecut-blog
 
-# Install dependencies for a specific article
-uv pip install package1 package2 package3
+# Install dependencies (listed at top of each notebook)
+pip install package1 package2
 ```
 
-#### Option 2: Using pip
-
-```bash
-# Clone the repository
-git clone https://github.com/khuyentran1401/codecut-blog.git
-cd codecut-blog
-
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# Install dependencies for a specific article
-pip install package1 package2 package3
-```
-
-## Dependencies
-
-Each article is self-contained and lists its required packages at the beginning. Install only what you need for the specific articles you want to run to keep your environment lean.
+Use [UV](https://docs.astral.sh/uv/) for faster installs: `uv pip install package1 package2`
 
 ## Contributing
 
