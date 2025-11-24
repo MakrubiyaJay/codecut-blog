@@ -59,12 +59,6 @@ pip install package1 package2
 
 Use [UV](https://docs.astral.sh/uv/) for faster installs: `uv pip install package1 package2`
 
-## Contributing
-
-Found an issue or have a suggestion?
-- Open an issue at [codecut_articles repository](https://github.com/khuyentran1401/codecut_articles/issues)
-- All articles are also published on [CodeCut.ai](https://codecut.ai/blog?utm_source=github&utm_medium=codecut-blog&utm_campaign=readme)
-
 ## License
 
 All articles are copyright � Khuyen Tran. Code examples within articles are MIT licensed for reuse.
